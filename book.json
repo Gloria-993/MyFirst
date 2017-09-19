@@ -1,0 +1,8 @@
+{
+
+    "title": "我的第一本電子書",
+    "description": "用 GitBook 制作的第一本電子書！",
+    "isbn": "978-3-16-148410-0",
+    "language": "zh-tw",
+    "direction": "ltr"
+}
